@@ -1,7 +1,7 @@
 #!url=https://raw.githubusercontent.com/duyvinh09/Module_IOS/refs/heads/main/All_In_One.sgmodule
 #!name=All In One
-#!desc=Được tổng hợp bởi Đinh Duy Vinh
-#!author=duyvinh09
+#!desc=EM HIẾU
+#!author=EM HIẾU
 #!homepage=https://module-ios.netlify.app
 #!tgchannel=https://t.me/tienich
 #!moduleUrl=https://raw.githubusercontent.com/duyvinh09/Module_IOS/refs/heads/main/All_In_One.sgmodule
